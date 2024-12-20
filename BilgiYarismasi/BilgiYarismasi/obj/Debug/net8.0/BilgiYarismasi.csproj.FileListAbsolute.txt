@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\bin\Debug\net8.0\BilgiYarismasi.exe
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\bin\Debug\net8.0\BilgiYarismasi.deps.json
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\bin\Debug\net8.0\BilgiYarismasi.runtimeconfig.json
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\bin\Debug\net8.0\BilgiYarismasi.dll
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\bin\Debug\net8.0\BilgiYarismasi.pdb
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.AssemblyInfo.cs
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.dll
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\refint\BilgiYarismasi.dll
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.pdb
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\BilgiYarismasi.genruntimeconfig.cache
+C:\Users\User\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\net8.0\ref\BilgiYarismasi.dll
